@@ -2,7 +2,7 @@
 
 ### blog: 
 
-[My note-taking journey](.notetaking.md)
+[My note-taking journey](notetaking.md)
 
 ### cheers
 
